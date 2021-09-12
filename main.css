@@ -1,0 +1,23 @@
+.heading {
+    color: brown;
+    margin-left: 8rem;
+}
+.table {
+    padding: 0.5rem;
+}
+.notes {
+    margin: 0rem;
+    height: 0rem;
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    margin-left: 25rem
+
+}
+
+.border {
+    border-radius: 4rem;
+}
