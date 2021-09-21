@@ -2,17 +2,9 @@
 
 body {
     font-family: 'Roboto Slab', serif;
-    
-
-
-
     height: 20rem;
     text-align: center;
-    
-
-
-
-}
+    }
 
 .info {
     margin-top: 2.6rem;
@@ -23,8 +15,6 @@ body {
 .heading {
     color: #15803D
     
-
-
 }
 
 .table {
@@ -37,7 +27,6 @@ body {
 .notes {
     border: solid 2px;
     
-
 }
 
 .container {
@@ -51,7 +40,6 @@ body {
     background-color: 
     #FAFAFA;
     
-
 }
 
 

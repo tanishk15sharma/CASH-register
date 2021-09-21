@@ -16,7 +16,7 @@ checkButton.addEventListener("click", function validateBillAndCashAmount() {
             calculateChange(amountToBeReturned);
 
         } else {
-            showMessage("The cash Amount shoule be atleaste equal to Bill Payable ");
+            showMessage("The Cash Amount Should be Atleast equal to Bill Payable ");
 
         }
     } else {
