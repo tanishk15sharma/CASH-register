@@ -23,6 +23,9 @@ checkButton.addEventListener("click", function validateBillAndCashAmount() {
         showMessage("Invalid bill Amount");
 
     }
+    if (Number(cashGiven.value) === Number(billAmount.value)  ) {
+        showMessage("No amount to be return , Shukriya 😀   ")
+     };
 });
 function calculateChange(amountToBeReturned) {
     for (let i=0; i< availableNotes.length; i++ ) {
